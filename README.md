@@ -2,8 +2,7 @@
 
 VKBotKit это Python фреймворк, предназначенный для работы чат-бота в сообществе ВКонтакте.  
 VKBotKit спроектирован с целью упростить и структуризировать контент и настроиваемый функционал. Библиотека работает в связке с VK Bots API, а также библиотекой aiohttp.  
-VKBotKit основан на наработках [Test Canary Bot](https://github.com/kensoi/pycanarykit).
-
+VKBotKit - духовный наследник TestCanaryBot.
 ## Структура фреймворка
 
 * `vkbotkit` - основной функционал фреймворка
@@ -24,5 +23,4 @@ VKBotKit основан на наработках [Test Canary Bot](https://gith
 
 ## Полезные ссылки
 
-* [vkbotkit/template](https://github.com/vkbotkit/template/tree/v1.2)
-* [vkbotkit/examples](https://github.com/vkbotkit/examples/tree/v1.2)
+* [template](https://github.com/miuruwa/vkbotkit-template)
